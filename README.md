@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I’m currently enrolled at Codeup, learning the Data Science program. 
+Once I’m done here, I will be continued to pursue my Data Science Undergrad program at Indiana University.
+I recently ended my 22 years of commitment to the United State Air Force.  I’m a tech enthusiast and love learning about Data Science. 
+
+****************************************************************************************************
 Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
 
 - Linus Torvalds
