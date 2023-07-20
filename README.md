@@ -6,3 +6,6 @@ I am currently enrolled in Codeup's Data Science program, and after completing i
 Bad programmers worry about the code. Good programmers worry about data structures and their relationships.
 
 - Linus Torvalds
+
+
+Python HTML CSS JavaScript SQL Matplotlib Seaborn SciPy Sci-Kit Learn Git GitHub Jupyter Notebook Visual Studio Code Tableau Google Sheets Markdown Stack Overflow Geek For Geeks JSON MySQL BigQuery
