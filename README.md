@@ -38,7 +38,7 @@ Bad programmers worry about the code. Good programmers worry about data structur
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-0D1117?style=flat&logo=stack-overflow)](https://stackoverflow.com/)
 [![Geek For Geeks](https://img.shields.io/badge/-Geeks%20for%20Geeks-0D1117?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/)
 [![ChatGPT](https://img.shields.io/badge/-ChatGPT-0D1117?style=flat&logo=openai)](https://chat.openai.com/)
-[![
+
 
 <!-- ### ⚡ Top Languages
 
